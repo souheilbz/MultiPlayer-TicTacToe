@@ -1,1 +1,1 @@
-This game uses Flutter, Node.js, Express, Socket.io, MongoDB and Mongoose.
+A completely Responsive Multiplayer TicTacToe Game- Works on Android, iOS, Web & Desktop!
